@@ -10,5 +10,6 @@ public class Test {
 		System.out.println("你三大爷");
 		System.out.println("你四大爷");
 		System.out.println("你大爷真的受伤了");		
+		System.out.println("你二大爷真的受伤了");		
 	}
 }
