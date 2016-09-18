@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("HelloWorld!!!");
 		System.out.println("你大爷");
 		System.out.println("你二大爷");
+		System.out.println("你三大爷");
 		
 	}
 }
